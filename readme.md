@@ -10,7 +10,7 @@
 * **Install**
 Creating the conda env of VCall and installing packages. 
 ```shell
-conda create -n VCall python==3.10.13 minimap2 samtools seqkit pysam nanofilt
+conda create -n VCall python==3.10.13 minimap2 samtools seqkit pysam nanofilt scipy
 conda activate VCall
 ```
 * **Download**
