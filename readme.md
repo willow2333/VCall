@@ -1,5 +1,5 @@
 # <font size=6 color='gray'> VCall is a varints caller based on TGS or NGS sequencing data for small genomes</font>
-***<font size=5 color='blue'>Helight</font>***
+***<font size=5 color='blue'>Highlight</font>***
 - **VCall is an updated version of the CmVCall https://github.com/willow2333/CmVCall**
 - **If you have the sequencing fastq files of different Sequencing platforms, you can fetch the variant sites '*.vcf' file by VCall Tool.**
 - **If you have the amplicons seuencing data of a circular genomes, you just need to input the position  of primer by '--spot1' parameter.**
