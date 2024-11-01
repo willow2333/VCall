@@ -6,7 +6,7 @@
 - **The VCall also output the genome consensus fasta.**
 
 ***<font size=5 color='blue'>VCall workflow</font>***
- 
+ ![1](pic/VCall.png)
 * **Install**
 Creating the conda env of VCall and installing packages. 
 ```shell
