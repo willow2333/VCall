@@ -8,7 +8,7 @@ if __name__ == '__main__':
     general = parser.add_argument_group(title='General options')
     general.add_argument("--inputdir",help='The path of sequencing data, fastq or fasta.')
     general.add_argument("--ref", help='The absolute path of reference.')
-    general.add_argument("--homodir", help='Output file of reference homopolymer. ')#/data/qinliu/Work/Test
+    general.add_argument("--homodir", help='Output file of reference homopolymer. ')
     general.add_argument("--refname",help='The name of reference file.')
     general.add_argument("--refid",help='The id of reference sequence.')
   
