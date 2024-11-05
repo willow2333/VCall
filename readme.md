@@ -78,3 +78,4 @@ NC_012920.1     16184   .       C       *       .       PASS    DP=167;AF=0.719;
 NC_012920.1     16189   .       T       *       .       PASS    DP=167;AF=0.832;TYPE=DEL
 NC_012920.1     16217   .       T       C       .       PASS    DP=167;AF=0.970;TYPE=SNV
 ```
+© 2024 by Liu Qin (ql_willow@163.com)
