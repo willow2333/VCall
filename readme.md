@@ -8,6 +8,7 @@
 ***<font size=5 color='blue'>VCall workflow</font>***
 ![1](pic/VCall.png)
 * **Install**
+
 Creating the conda env of VCall and installing packages. 
 ```shell
 conda create -n VCall python==3.10.13 minimap2 samtools seqkit pysam nanofilt scipy Levenshtein tqdm
@@ -33,6 +34,7 @@ General options:
   --refid REFID        The id of reference sequence.
 ```
 * **Test**
+
 Human mitochondrial genome data was uesed for testing.
 ```shell
 cd VCall
